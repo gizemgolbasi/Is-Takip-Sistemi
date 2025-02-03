@@ -1,0 +1,62 @@
+﻿
+@{
+    ViewBag.Title = "Calisan";
+    Layout = "~/Views/Shared/_LayoutYonetici.cshtml";
+}
+<script src="~/Scripts/jquery-3.7.1.min.js"></script>
+<h2>Çalışan Ekle</h2>
+<div class="form-horizontal">
+    <div class="form-group">
+        <label for="personelAd">Personel Ad:</label>
+        <input id="personelAd" type="text" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label for="personelKullaniciAdi">Personel Kullanıcı Adı:</label>
+        <input id="personelKullaniciAdi" type="text" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label for="personelSifre">Personel Şifre </label>
+        <input id="personelSifre" type="text" class="form-control" />
+    </div>
+    @*<div class="form-group">
+        <label for="personelBirim">Birim </label>
+        <input id="personelSifre" type="text" class="form-control" />
+    </div>*@
+    <br />
+    <div>
+        <button type="button" class="btn btn-primary" id="calisanEkleBtn">Ekle</button>
+    </div>
+</div>
+
+<script>
+    $(document).ready(function () {
+        $("#calisanEkleBtn").click(function () {
+            //var personelad = $("#personelAd").val();
+            //var personelSifre = $("#personelKullaniciAdi").val();
+            //var personelSifre = $("#personelSifre").val();
+
+            var personel = {
+                personelAdSoyad: $("#personelAd").val(),
+                personelKullaniciAd: $("#personelKullaniciAdi").val(),
+                personelParola: $("#personelSifre").val()
+            };
+
+            $.ajax({
+                url: "/Yonetici/Calisan",
+                type: "Post",
+                contentType: 'application/json;charset=utf-8', 
+                dataType: "JSON",
+                data: JSON.stringify(personel),
+                success: function (response) {
+                    if (response.success) {
+                        alert(response.Message)
+                        window.location.href = response.redirectUrl;
+                    }
+                    else {
+                        alert(response.ErrorMessage)
+                    }
+                }
+            })
+        })
+    })
+</script>

@@ -1,0 +1,42 @@
+﻿
+@{
+    ViewBag.Title = "Yap";
+    Layout = "~/Views/Shared/_LayoutCalisanlar.cshtml";
+}
+
+<div class="container mt-5">
+    @foreach(var i in ViewBag.isler)
+            {
+    using (Html.BeginForm("Yap", "Calisan", FormMethod.Post))
+                {
+                    <div class="card">
+                        <div class="card-header text-center">
+                            @i.isBaslik
+                        </div>
+                        <div class="card-body">
+                           
+                            @*burda hangi işin yapıldı tamamlandı butonuna basıldığını  yakalamamız lazım gizli input yerleştirdi*@
+                            <input  type="hidden" name="isId" value="@i.isId"/>
+                            <div class="mb-3">
+                               İş Açıklaması: @i.isAciklama
+                            </div>
+                            <div class="mb-3">
+                             <label for="isYorum" class="form-label">Yorum Giriniz</label>
+                                <input  type="text" class="form-control" id="isYorum" name="isYorum"/>
+                            </div>
+                        </div>
+                        <div class="card-footer">
+                         <button  type="submit" class="btn btn-outline-success">
+                             Tamamla
+                         </button>
+                        </div>
+
+
+                    </div>
+                    <br />
+                }
+        
+            }
+
+</div>
+

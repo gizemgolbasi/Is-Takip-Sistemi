@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="c1695a5ff38f4ba3bdf17eda9598e49a" Name="Diagram1">
+        <EntityTypeShape EntityType="IsTakipDBModel.Birimler" Width="1.5" PointX="0.75" PointY="1.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="IsTakipDBModel.Durumlar" Width="1.5" PointX="2.75" PointY="4.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="IsTakipDBModel.Personeller" Width="1.5" PointX="8" PointY="2.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="IsTakipDBModel.sysdiagrams" Width="1.5" PointX="4.75" PointY="4.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="IsTakipDBModel.YetkiTurler" Width="1.5" PointX="0.75" PointY="5.375" IsExpanded="true" />
+        <AssociationConnector Association="IsTakipDBModel.FK_Personeller_Birimler" ManuallyRouted="false" />
+        <AssociationConnector Association="IsTakipDBModel.FK_Personeller_YetkiTurler" ManuallyRouted="false" />
+        <EntityTypeShape EntityType="IsTakipDBModel.Isler" Width="1.5" PointX="5.25" PointY="0.75" />
+        <AssociationConnector Association="IsTakipDBModel.FK_Isler_Durumlar" />
+        <AssociationConnector Association="IsTakipDBModel.FK_Isler_Personeller" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

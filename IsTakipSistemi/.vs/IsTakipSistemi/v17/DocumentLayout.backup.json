@@ -1,0 +1,328 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Gizem G\u00F6lba\u015F\u0131\\source\\repos\\IsTakipSistemi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{48705033-0852-4B75-8FC8-F30AA5774176}|IsTakipSistemi\\IsTakipSistemi.csproj|c:\\users\\gizem g\u00F6lba\u015F\u0131\\source\\repos\\istakipsistemi\\istakipsistemi\\models\\istakipmodel.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{48705033-0852-4B75-8FC8-F30AA5774176}|IsTakipSistemi\\IsTakipSistemi.csproj|solutionrelative:istakipsistemi\\models\\istakipmodel.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48705033-0852-4B75-8FC8-F30AA5774176}|IsTakipSistemi\\IsTakipSistemi.csproj|C:\\Users\\Gizem G\u00F6lba\u015F\u0131\\source\\repos\\IsTakipSistemi\\istakipsistemi\\controllers\\calisancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48705033-0852-4B75-8FC8-F30AA5774176}|IsTakipSistemi\\IsTakipSistemi.csproj|solutionrelative:istakipsistemi\\controllers\\calisancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48705033-0852-4B75-8FC8-F30AA5774176}|IsTakipSistemi\\IsTakipSistemi.csproj|C:\\Users\\Gizem G\u00F6lba\u015F\u0131\\source\\repos\\IsTakipSistemi\\istakipsistemi\\models\\isdurummodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48705033-0852-4B75-8FC8-F30AA5774176}|IsTakipSistemi\\IsTakipSistemi.csproj|solutionrelative:istakipsistemi\\models\\isdurummodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48705033-0852-4B75-8FC8-F30AA5774176}|IsTakipSistemi\\IsTakipSistemi.csproj|C:\\Users\\Gizem G\u00F6lba\u015F\u0131\\source\\repos\\IsTakipSistemi\\istakipsistemi\\controllers\\yoneticicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48705033-0852-4B75-8FC8-F30AA5774176}|IsTakipSistemi\\IsTakipSistemi.csproj|solutionrelative:istakipsistemi\\controllers\\yoneticicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48705033-0852-4B75-8FC8-F30AA5774176}|IsTakipSistemi\\IsTakipSistemi.csproj|C:\\Users\\Gizem G\u00F6lba\u015F\u0131\\source\\repos\\IsTakipSistemi\\istakipsistemi\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{48705033-0852-4B75-8FC8-F30AA5774176}|IsTakipSistemi\\IsTakipSistemi.csproj|solutionrelative:istakipsistemi\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48705033-0852-4B75-8FC8-F30AA5774176}|IsTakipSistemi\\IsTakipSistemi.csproj|C:\\Users\\Gizem G\u00F6lba\u015F\u0131\\source\\repos\\IsTakipSistemi\\istakipsistemi\\views\\shared\\_layoutyonetici.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{48705033-0852-4B75-8FC8-F30AA5774176}|IsTakipSistemi\\IsTakipSistemi.csproj|solutionrelative:istakipsistemi\\views\\shared\\_layoutyonetici.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48705033-0852-4B75-8FC8-F30AA5774176}|IsTakipSistemi\\IsTakipSistemi.csproj|C:\\Users\\Gizem G\u00F6lba\u015F\u0131\\source\\repos\\IsTakipSistemi\\istakipsistemi\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{48705033-0852-4B75-8FC8-F30AA5774176}|IsTakipSistemi\\IsTakipSistemi.csproj|solutionrelative:istakipsistemi\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48705033-0852-4B75-8FC8-F30AA5774176}|IsTakipSistemi\\IsTakipSistemi.csproj|C:\\Users\\Gizem G\u00F6lba\u015F\u0131\\source\\repos\\IsTakipSistemi\\istakipsistemi\\views\\yonetici\\calisan.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{48705033-0852-4B75-8FC8-F30AA5774176}|IsTakipSistemi\\IsTakipSistemi.csproj|solutionrelative:istakipsistemi\\views\\yonetici\\calisan.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48705033-0852-4B75-8FC8-F30AA5774176}|IsTakipSistemi\\IsTakipSistemi.csproj|C:\\Users\\Gizem G\u00F6lba\u015F\u0131\\source\\repos\\IsTakipSistemi\\istakipsistemi\\controllers\\logoutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48705033-0852-4B75-8FC8-F30AA5774176}|IsTakipSistemi\\IsTakipSistemi.csproj|solutionrelative:istakipsistemi\\controllers\\logoutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48705033-0852-4B75-8FC8-F30AA5774176}|IsTakipSistemi\\IsTakipSistemi.csproj|C:\\Users\\Gizem G\u00F6lba\u015F\u0131\\source\\repos\\IsTakipSistemi\\istakipsistemi\\models\\personeller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48705033-0852-4B75-8FC8-F30AA5774176}|IsTakipSistemi\\IsTakipSistemi.csproj|solutionrelative:istakipsistemi\\models\\personeller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48705033-0852-4B75-8FC8-F30AA5774176}|IsTakipSistemi\\IsTakipSistemi.csproj|C:\\Users\\Gizem G\u00F6lba\u015F\u0131\\source\\repos\\IsTakipSistemi\\istakipsistemi\\views\\calisan\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{48705033-0852-4B75-8FC8-F30AA5774176}|IsTakipSistemi\\IsTakipSistemi.csproj|solutionrelative:istakipsistemi\\views\\calisan\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48705033-0852-4B75-8FC8-F30AA5774176}|IsTakipSistemi\\IsTakipSistemi.csproj|C:\\Users\\Gizem G\u00F6lba\u015F\u0131\\source\\repos\\IsTakipSistemi\\istakipsistemi\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48705033-0852-4B75-8FC8-F30AA5774176}|IsTakipSistemi\\IsTakipSistemi.csproj|solutionrelative:istakipsistemi\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48705033-0852-4B75-8FC8-F30AA5774176}|IsTakipSistemi\\IsTakipSistemi.csproj|C:\\Users\\Gizem G\u00F6lba\u015F\u0131\\source\\repos\\IsTakipSistemi\\istakipsistemi\\views\\shared\\_layoutcalisanlar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{48705033-0852-4B75-8FC8-F30AA5774176}|IsTakipSistemi\\IsTakipSistemi.csproj|solutionrelative:istakipsistemi\\views\\shared\\_layoutcalisanlar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48705033-0852-4B75-8FC8-F30AA5774176}|IsTakipSistemi\\IsTakipSistemi.csproj|C:\\Users\\Gizem G\u00F6lba\u015F\u0131\\source\\repos\\IsTakipSistemi\\istakipsistemi\\views\\calisan\\yap.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{48705033-0852-4B75-8FC8-F30AA5774176}|IsTakipSistemi\\IsTakipSistemi.csproj|solutionrelative:istakipsistemi\\views\\calisan\\yap.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48705033-0852-4B75-8FC8-F30AA5774176}|IsTakipSistemi\\IsTakipSistemi.csproj|C:\\Users\\Gizem G\u00F6lba\u015F\u0131\\source\\repos\\IsTakipSistemi\\istakipsistemi\\views\\calisan\\takip.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{48705033-0852-4B75-8FC8-F30AA5774176}|IsTakipSistemi\\IsTakipSistemi.csproj|solutionrelative:istakipsistemi\\views\\calisan\\takip.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48705033-0852-4B75-8FC8-F30AA5774176}|IsTakipSistemi\\IsTakipSistemi.csproj|C:\\Users\\Gizem G\u00F6lba\u015F\u0131\\source\\repos\\IsTakipSistemi\\istakipsistemi\\views\\yonetici\\listele.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{48705033-0852-4B75-8FC8-F30AA5774176}|IsTakipSistemi\\IsTakipSistemi.csproj|solutionrelative:istakipsistemi\\views\\yonetici\\listele.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48705033-0852-4B75-8FC8-F30AA5774176}|IsTakipSistemi\\IsTakipSistemi.csproj|C:\\Users\\Gizem G\u00F6lba\u015F\u0131\\source\\repos\\IsTakipSistemi\\istakipsistemi\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{48705033-0852-4B75-8FC8-F30AA5774176}|IsTakipSistemi\\IsTakipSistemi.csproj|solutionrelative:istakipsistemi\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48705033-0852-4B75-8FC8-F30AA5774176}|IsTakipSistemi\\IsTakipSistemi.csproj|C:\\Users\\Gizem G\u00F6lba\u015F\u0131\\source\\repos\\IsTakipSistemi\\istakipsistemi\\content\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{48705033-0852-4B75-8FC8-F30AA5774176}|IsTakipSistemi\\IsTakipSistemi.csproj|solutionrelative:istakipsistemi\\content\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48705033-0852-4B75-8FC8-F30AA5774176}|IsTakipSistemi\\IsTakipSistemi.csproj|C:\\Users\\Gizem G\u00F6lba\u015F\u0131\\source\\repos\\IsTakipSistemi\\istakipsistemi\\models\\istakipmodel.context.tt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{48705033-0852-4B75-8FC8-F30AA5774176}|IsTakipSistemi\\IsTakipSistemi.csproj|solutionrelative:istakipsistemi\\models\\istakipmodel.context.tt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IsTakipModel.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\Users\\Gizem G\u00F6lba\u015F\u0131\\source\\repos\\IsTakipSistemi\\IsTakipSistemi\\Models\\IsTakipModel.edmx",
+              "RelativeDocumentMoniker": "IsTakipSistemi\\Models\\IsTakipModel.edmx",
+              "ToolTip": "C:\\Users\\Gizem G\u00F6lba\u015F\u0131\\source\\repos\\IsTakipSistemi\\IsTakipSistemi\\Models\\IsTakipModel.edmx [Diagram1]",
+              "RelativeToolTip": "IsTakipSistemi\\Models\\IsTakipModel.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2025-02-02T19:04:56.017Z",
+              "EditorCaption": " [Diagram1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IsDurumModel.cs",
+              "DocumentMoniker": "C:\\Users\\Gizem G\u00F6lba\u015F\u0131\\source\\repos\\IsTakipSistemi\\IsTakipSistemi\\Models\\IsDurumModel.cs",
+              "RelativeDocumentMoniker": "IsTakipSistemi\\Models\\IsDurumModel.cs",
+              "ToolTip": "C:\\Users\\Gizem G\u00F6lba\u015F\u0131\\source\\repos\\IsTakipSistemi\\IsTakipSistemi\\Models\\IsDurumModel.cs",
+              "RelativeToolTip": "IsTakipSistemi\\Models\\IsDurumModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T19:03:42.365Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LogoutController.cs",
+              "DocumentMoniker": "C:\\Users\\Gizem G\u00F6lba\u015F\u0131\\source\\repos\\IsTakipSistemi\\IsTakipSistemi\\Controllers\\LogoutController.cs",
+              "RelativeDocumentMoniker": "IsTakipSistemi\\Controllers\\LogoutController.cs",
+              "ToolTip": "C:\\Users\\Gizem G\u00F6lba\u015F\u0131\\source\\repos\\IsTakipSistemi\\IsTakipSistemi\\Controllers\\LogoutController.cs",
+              "RelativeToolTip": "IsTakipSistemi\\Controllers\\LogoutController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T18:56:32.33Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_LayoutYonetici.cshtml",
+              "DocumentMoniker": "C:\\Users\\Gizem G\u00F6lba\u015F\u0131\\source\\repos\\IsTakipSistemi\\IsTakipSistemi\\Views\\Shared\\_LayoutYonetici.cshtml",
+              "RelativeDocumentMoniker": "IsTakipSistemi\\Views\\Shared\\_LayoutYonetici.cshtml",
+              "ToolTip": "C:\\Users\\Gizem G\u00F6lba\u015F\u0131\\source\\repos\\IsTakipSistemi\\IsTakipSistemi\\Views\\Shared\\_LayoutYonetici.cshtml",
+              "RelativeToolTip": "IsTakipSistemi\\Views\\Shared\\_LayoutYonetici.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACIAAAByAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-30T18:34:36.444Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Gizem G\u00F6lba\u015F\u0131\\source\\repos\\IsTakipSistemi\\IsTakipSistemi\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "IsTakipSistemi\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Gizem G\u00F6lba\u015F\u0131\\source\\repos\\IsTakipSistemi\\IsTakipSistemi\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "IsTakipSistemi\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-19T14:29:26.826Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "YoneticiController.cs",
+              "DocumentMoniker": "C:\\Users\\Gizem G\u00F6lba\u015F\u0131\\source\\repos\\IsTakipSistemi\\IsTakipSistemi\\Controllers\\YoneticiController.cs",
+              "RelativeDocumentMoniker": "IsTakipSistemi\\Controllers\\YoneticiController.cs",
+              "ToolTip": "C:\\Users\\Gizem G\u00F6lba\u015F\u0131\\source\\repos\\IsTakipSistemi\\IsTakipSistemi\\Controllers\\YoneticiController.cs",
+              "RelativeToolTip": "IsTakipSistemi\\Controllers\\YoneticiController.cs",
+              "ViewState": "AgIAALwAAAAAAAAAAAAAAOMAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T20:08:14.218Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Personeller.cs",
+              "DocumentMoniker": "C:\\Users\\Gizem G\u00F6lba\u015F\u0131\\source\\repos\\IsTakipSistemi\\IsTakipSistemi\\Models\\Personeller.cs",
+              "RelativeDocumentMoniker": "IsTakipSistemi\\Models\\Personeller.cs",
+              "ToolTip": "C:\\Users\\Gizem G\u00F6lba\u015F\u0131\\source\\repos\\IsTakipSistemi\\IsTakipSistemi\\Models\\Personeller.cs",
+              "RelativeToolTip": "IsTakipSistemi\\Models\\Personeller.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABkAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T20:17:03.979Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CalisanController.cs",
+              "DocumentMoniker": "C:\\Users\\Gizem G\u00F6lba\u015F\u0131\\source\\repos\\IsTakipSistemi\\IsTakipSistemi\\Controllers\\CalisanController.cs",
+              "RelativeDocumentMoniker": "IsTakipSistemi\\Controllers\\CalisanController.cs",
+              "ToolTip": "C:\\Users\\Gizem G\u00F6lba\u015F\u0131\\source\\repos\\IsTakipSistemi\\IsTakipSistemi\\Controllers\\CalisanController.cs",
+              "RelativeToolTip": "IsTakipSistemi\\Controllers\\CalisanController.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAAAFIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T19:33:20.779Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Calisan.cshtml",
+              "DocumentMoniker": "C:\\Users\\Gizem G\u00F6lba\u015F\u0131\\source\\repos\\IsTakipSistemi\\IsTakipSistemi\\Views\\Yonetici\\Calisan.cshtml",
+              "RelativeDocumentMoniker": "IsTakipSistemi\\Views\\Yonetici\\Calisan.cshtml",
+              "ToolTip": "C:\\Users\\Gizem G\u00F6lba\u015F\u0131\\source\\repos\\IsTakipSistemi\\IsTakipSistemi\\Views\\Yonetici\\Calisan.cshtml",
+              "RelativeToolTip": "IsTakipSistemi\\Views\\Yonetici\\Calisan.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAADQAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-30T19:02:43.339Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Gizem G\u00F6lba\u015F\u0131\\source\\repos\\IsTakipSistemi\\IsTakipSistemi\\Views\\Login\\Index.cshtml",
+              "RelativeDocumentMoniker": "IsTakipSistemi\\Views\\Login\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Gizem G\u00F6lba\u015F\u0131\\source\\repos\\IsTakipSistemi\\IsTakipSistemi\\Views\\Login\\Index.cshtml",
+              "RelativeToolTip": "IsTakipSistemi\\Views\\Login\\Index.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACkAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-27T13:48:17.306Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Gizem G\u00F6lba\u015F\u0131\\source\\repos\\IsTakipSistemi\\IsTakipSistemi\\Views\\Calisan\\Index.cshtml",
+              "RelativeDocumentMoniker": "IsTakipSistemi\\Views\\Calisan\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Gizem G\u00F6lba\u015F\u0131\\source\\repos\\IsTakipSistemi\\IsTakipSistemi\\Views\\Calisan\\Index.cshtml",
+              "RelativeToolTip": "IsTakipSistemi\\Views\\Calisan\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-21T22:04:34.945Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_LayoutCalisanlar.cshtml",
+              "DocumentMoniker": "C:\\Users\\Gizem G\u00F6lba\u015F\u0131\\source\\repos\\IsTakipSistemi\\IsTakipSistemi\\Views\\Shared\\_LayoutCalisanlar.cshtml",
+              "RelativeDocumentMoniker": "IsTakipSistemi\\Views\\Shared\\_LayoutCalisanlar.cshtml",
+              "ToolTip": "C:\\Users\\Gizem G\u00F6lba\u015F\u0131\\source\\repos\\IsTakipSistemi\\IsTakipSistemi\\Views\\Shared\\_LayoutCalisanlar.cshtml",
+              "RelativeToolTip": "IsTakipSistemi\\Views\\Shared\\_LayoutCalisanlar.cshtml",
+              "ViewState": "AgIAABkAAAAAAAAAAAAlwCgAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-20T19:30:45.186Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\Gizem G\u00F6lba\u015F\u0131\\source\\repos\\IsTakipSistemi\\IsTakipSistemi\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "IsTakipSistemi\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\Gizem G\u00F6lba\u015F\u0131\\source\\repos\\IsTakipSistemi\\IsTakipSistemi\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "IsTakipSistemi\\Controllers\\LoginController.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T06:57:40.232Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Yap.cshtml",
+              "DocumentMoniker": "C:\\Users\\Gizem G\u00F6lba\u015F\u0131\\source\\repos\\IsTakipSistemi\\IsTakipSistemi\\Views\\Calisan\\Yap.cshtml",
+              "RelativeDocumentMoniker": "IsTakipSistemi\\Views\\Calisan\\Yap.cshtml",
+              "ToolTip": "C:\\Users\\Gizem G\u00F6lba\u015F\u0131\\source\\repos\\IsTakipSistemi\\IsTakipSistemi\\Views\\Calisan\\Yap.cshtml",
+              "RelativeToolTip": "IsTakipSistemi\\Views\\Calisan\\Yap.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-26T13:03:11.174Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Takip.cshtml",
+              "DocumentMoniker": "C:\\Users\\Gizem G\u00F6lba\u015F\u0131\\source\\repos\\IsTakipSistemi\\IsTakipSistemi\\Views\\Calisan\\Takip.cshtml",
+              "RelativeDocumentMoniker": "IsTakipSistemi\\Views\\Calisan\\Takip.cshtml",
+              "ToolTip": "C:\\Users\\Gizem G\u00F6lba\u015F\u0131\\source\\repos\\IsTakipSistemi\\IsTakipSistemi\\Views\\Calisan\\Takip.cshtml",
+              "RelativeToolTip": "IsTakipSistemi\\Views\\Calisan\\Takip.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-30T18:54:37.493Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Site.css",
+              "DocumentMoniker": "C:\\Users\\Gizem G\u00F6lba\u015F\u0131\\source\\repos\\IsTakipSistemi\\IsTakipSistemi\\Content\\Site.css",
+              "RelativeDocumentMoniker": "IsTakipSistemi\\Content\\Site.css",
+              "ToolTip": "C:\\Users\\Gizem G\u00F6lba\u015F\u0131\\source\\repos\\IsTakipSistemi\\IsTakipSistemi\\Content\\Site.css",
+              "RelativeToolTip": "IsTakipSistemi\\Content\\Site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-12-22T18:19:25.91Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Gizem G\u00F6lba\u015F\u0131\\source\\repos\\IsTakipSistemi\\IsTakipSistemi\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "IsTakipSistemi\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Gizem G\u00F6lba\u015F\u0131\\source\\repos\\IsTakipSistemi\\IsTakipSistemi\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "IsTakipSistemi\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-26T12:56:49.58Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Listele.cshtml",
+              "DocumentMoniker": "C:\\Users\\Gizem G\u00F6lba\u015F\u0131\\source\\repos\\IsTakipSistemi\\IsTakipSistemi\\Views\\Yonetici\\Listele.cshtml",
+              "RelativeDocumentMoniker": "IsTakipSistemi\\Views\\Yonetici\\Listele.cshtml",
+              "ToolTip": "C:\\Users\\Gizem G\u00F6lba\u015F\u0131\\source\\repos\\IsTakipSistemi\\IsTakipSistemi\\Views\\Yonetici\\Listele.cshtml",
+              "RelativeToolTip": "IsTakipSistemi\\Views\\Yonetici\\Listele.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-27T13:50:09.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IsTakipModel.Context.tt",
+              "DocumentMoniker": "C:\\Users\\Gizem G\u00F6lba\u015F\u0131\\source\\repos\\IsTakipSistemi\\IsTakipSistemi\\Models\\IsTakipModel.Context.tt",
+              "RelativeDocumentMoniker": "IsTakipSistemi\\Models\\IsTakipModel.Context.tt",
+              "ToolTip": "C:\\Users\\Gizem G\u00F6lba\u015F\u0131\\source\\repos\\IsTakipSistemi\\IsTakipSistemi\\Models\\IsTakipModel.Context.tt",
+              "RelativeToolTip": "IsTakipSistemi\\Models\\IsTakipModel.Context.tt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-12-21T20:31:27.711Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
